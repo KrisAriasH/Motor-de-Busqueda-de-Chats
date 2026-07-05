@@ -77,8 +77,5 @@ Analizador-Conversaciones/
 └── html/ , latex/                    # Documentación generada con Doxygen
 ```
 
-## Documentación adicional
-
-Este repositorio incluye documentación generada con **Doxygen** en las carpetas `html/` (ábrela desde `html/index.html`) y `latex/`.
 
 
